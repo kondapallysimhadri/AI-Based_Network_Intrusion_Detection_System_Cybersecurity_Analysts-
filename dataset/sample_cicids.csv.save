@@ -1,0 +1,8 @@
+Flow Duration,Total Fwd Packets,Total Backward Packets,Flow Bytes/s,Flow Packets/s,Label
+1000,10,5,2000,15,BENIGN
+2000,20,10,4000,30,BENIGN
+1500,50,40,9000,60,DDoS
+1200,45,38,8500,55,DoS
+1800,12,8,2500,20,BENIGN
+1600,60,50,12000,75,PortScan
+
